@@ -1,0 +1,168 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #ffffff;
+    color: #434455;
+}
+ul,ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none
+}
+.list:hover,
+.list:focus {
+color: #404bbf
+}
+.list-stail:hover,
+.list-stail:focus {
+background-color: #404BBF;
+}
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height:1.17;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+    }
+    .logo-span{
+            font-size: 18px;
+            font-family: "Raleway", sans-serif;
+            font-weight: 700;
+            color: #2E2F42;
+    } 
+    .menu-link{
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #2E2F42;
+    }
+    .menu-kontaks{
+        font-style: normal;
+    }
+    .kontaks{
+        font-style: normal;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #434455;
+    }
+    /* -------hirov------ */
+    .hirov-van{
+        background-color: #2E2F42;
+    }
+    .hirov-text{
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color:#ffffff;
+    }
+    .button{
+          font-family: "Roboto", sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            color: white;
+        background-color:#4D5AE5;
+        cursor: pointer
+    }
+    /* -------1 secion----- */
+    .portfoio-main{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    .portfolio-text{
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                color: #434455;
+    }
+    /* ------------section-2------------ */
+    .team{
+        background-color:#F4F4FD;
+    }
+    .team-link{
+               text-align: center;
+                font-size: 36px;
+                font-weight: 700;
+                text-transform: capitalize;
+                line-height: 1.11;
+                letter-spacing: 0.02em;
+                color: #2E2F42;
+    }      
+    .team-class-main {
+        background-color: #FFFFFF;
+    }
+    .team-name{
+                font-size: 20px;
+                font-weight: 500;
+                line-height: 1.2;
+                letter-spacing:0.02em;
+                color: #2E2F42;
+    }
+
+    .team-text{
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                color: #434455;
+    }
+    /* ---------portfolio--------- */
+                  .skill{
+                background-color: #F4F4FD;
+                  }
+    .skill-het{
+               text-align: center;
+                font-size: 36px;
+                font-weight: 700;
+                text-transform: capitalize;
+                line-height: 1.11;
+                letter-spacing: 0.02em;
+                color: #2E2F42;
+    }
+    .skill-name{
+                font-size: 20px;
+                font-weight: 500;
+                line-height: 1.2;
+                letter-spacing:0.02em;
+                color: #2E2F42;
+    }
+    .skill-text{
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                color: #434455;
+    }
+    /* -------foter--------- */
+     .finih-class{
+        background-color:#2e2f42;
+     }
+    .span-finih{
+                font-size: 18px;
+                font-family: "Raleway", sans-serif
+                font-weight: 700;
+                text-transform: uppercase;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                color: #F4F4FD;
+    }
+    .finih-text{
+                font-size: 16px;
+                font-family: "Raleway", sans-serif
+                font-weight: 400;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                color: #F4F4FD;
+    }
