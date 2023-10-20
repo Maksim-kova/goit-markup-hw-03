@@ -1,3 +1,8 @@
+h1,h2,h3,h4,h5,h6,p{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
 body {
     font-family: "Roboto", sans-serif;
     background-color: #ffffff;
@@ -5,9 +10,26 @@ body {
 }
 ul,ol{
     list-style-type: none;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-left: 0%;
+}
+img{
+    display: block;
 }
 a{
-    text-decoration: none
+    text-decoration: none;
+}
+.container {
+    max-width: 1158px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-nav{
+    display: flex;
+    align-items: center;
 }
 .list:hover,
 .list:focus {
@@ -32,6 +54,9 @@ background-color: #404BBF;
             font-weight: 700;
             color: #2E2F42;
     } 
+    .menu{
+        display: flex;
+    }
     .menu-link{
             font-size: 16px;
             font-weight: 500;
