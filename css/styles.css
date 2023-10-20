@@ -30,6 +30,7 @@ a{
 .main-nav{
     display: flex;
     align-items: center;
+    margin-right: 76px;
 }
 .list:hover,
 .list:focus {
@@ -56,6 +57,7 @@ background-color: #404BBF;
     } 
     .menu{
         display: flex;
+        column-gap: 40px;
     }
     .menu-link{
             font-size: 16px;
